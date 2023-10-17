@@ -7,7 +7,7 @@ require (
 	github.com/tencentcloud/tencentcloud-cls-sdk-go v0.0.0-20211222035622-e30dab6428ed
 	go.uber.org/zap v1.24.0
 	gopkg.in/yaml.v3 v3.0.1
-	trpc.group/trpc-go/trpc-go v0.0.0-20231007030028-60e879fb57b8
+	trpc.group/trpc-go/trpc-go v1.0.0
 )
 
 require (
