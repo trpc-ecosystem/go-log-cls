@@ -3,10 +3,9 @@
 # tRPC-Go CLS 远程日志插件
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/trpc-ecosystem/go-log-cls.svg)](https://pkg.go.dev/github.com/trpc-ecosystem/go-log-cls)
-[![Go Report Card](https://goreportcard.com/badge/github.com/trpc.group/trpc-go/trpc-log-cls)](https://goreportcard.com/report/github.com/trpc.group/trpc-go/trpc-log-cls)
-[![LICENSE](https://img.shields.io/github/license/trpc-ecosystem/go-log-cls.svg?style=flat-square)](https://github.com/trpc-ecosystem/go-log-cls/blob/main/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/trpc.group/trpc-go/trpc-log-cls)](https://goreportcard.com/report/trpc.group/trpc-go/trpc-log-cls)
+[![LICENSE](https://img.shields.io/badge/license-Apache--2.0-green.svg)](https://github.com/trpc-ecosystem/go-log-cls/blob/main/LICENSE)
 [![Releases](https://img.shields.io/github/release/trpc-ecosystem/go-log-cls.svg?style=flat-square)](https://github.com/trpc-ecosystem/go-log-cls/releases)
-[![Docs](https://img.shields.io/badge/docs-latest-green)](http://test.trpc.group.woa.com/docs/)
 [![Tests](https://github.com/trpc-ecosystem/go-log-cls/actions/workflows/prc.yaml/badge.svg)](https://github.com/trpc-ecosystem/go-log-cls/actions/workflows/prc.yaml)
 [![Coverage](https://codecov.io/gh/trpc-ecosystem/go-log-cls/branch/main/graph/badge.svg)](https://app.codecov.io/gh/trpc-ecosystem/go-log-cls/tree/main)
 
